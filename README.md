@@ -3,7 +3,7 @@
 
 2015-2018 dönemi perakende satış verisiyle hazırladığım interaktif Power BI dashboard'u. Satışların nerede, ne zaman ve hangi teslimat yöntemiyle gerçekleştiğini tek sayfada gösterir.
 
-![Dashboard](Satış dashboardu.jpg)
+![Dashboard](dashboard-screenshot.jpg)
 
 ## Kullanılan Araçlar
 - Power BI Desktop
