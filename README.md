@@ -42,7 +42,7 @@ Türkçe bölgesel ayarlar yüzünden `Sales` sütunundaki ondalık nokta binlik
 
 ## Dosyalar
 - `[Satış dashboardu].pbix`: Power BI dosyası
-- `Satış dashboardu.png`: Dashboard ekran görüntüsü
+- `dashboard-screenshot.jpg`: Dashboard ekran görüntüsü
 
 ## İletişim
 [Yasin Sarışahin] - [https://www.linkedin.com/in/yasin-sarişahin-692860234/]  
